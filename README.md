@@ -1,2 +1,2 @@
 # document
-useful document
+technique document
